@@ -1,4 +1,4 @@
 # You好啊 👋
 
 <!--
-**jsy-1234/jsy-1234** 係我嘅名 a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jsy-1234/jsy-1234** 係我嘅名 a ✨ _非常特別_ ✨ 嘅倉庫，因為係我嘅**第一個**倉庫，希望大家多多支持🙇
